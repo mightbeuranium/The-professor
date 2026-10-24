@@ -1,11 +1,9 @@
 <div align="center">
 
-# Melon
+# The Professor
 
 A feature-rich, open source multipurpose Discord bot built with Discord.js v14.
 Designed for server protection, community management, AI chat, and automation.
-
-[![Discord](https://img.shields.io/discord/1414217749038891102?color=5865F2&label=Support&logo=discord&logoColor=white)](https://discord.gg/aerox)
 
 </div>
 
@@ -13,7 +11,7 @@ Designed for server protection, community management, AI chat, and automation.
 
 ## Overview
 
-Melon is a fully self-hostable, open source multipurpose Discord bot engineered to replace the need for several bots in a single server. It supports both **prefix commands** (default: `,`) and **slash commands** through a unified hybrid command system. Persistent data is stored in a **PostgreSQL** database via Sequelize ORM, and every feature is configurable on a per-server basis through setup commands.
+T.P is a fully self-hostable, open source multipurpose Discord bot engineered to replace the need for several bots in a single server. It supports both **prefix commands** (default: `,`) and **slash commands** through a unified hybrid command system. Persistent data is stored in a **PostgreSQL** database via Sequelize ORM, and every feature is configurable on a per-server basis through setup commands.
 
 ---
 
